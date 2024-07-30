@@ -1,0 +1,6 @@
+/target
+*.mp4
+*.mov
+/images-out/*
+/images/*
+
